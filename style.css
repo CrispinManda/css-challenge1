@@ -14,15 +14,16 @@
     
 }
 
-/* Default styles for desktop */
+
 .container {
     max-width: 1440px;
   }
   
-  /* Media query for mobile screens (up to 375px width) */
+ 
   @media (max-width: 375px) {
     .container {
       max-width: 375px;
     }
   }
+
   

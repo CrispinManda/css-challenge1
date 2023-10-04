@@ -1,0 +1,28 @@
+.body{
+    background-color:  hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+.card-text{
+    font-size: 15px;
+}
+.card-title{
+    font-weight: 700; 
+}
+
+.attribution{
+    margin-top: 100px;
+    
+}
+
+/* Default styles for desktop */
+.container {
+    max-width: 1440px;
+  }
+  
+  /* Media query for mobile screens (up to 375px width) */
+  @media (max-width: 375px) {
+    .container {
+      max-width: 375px;
+    }
+  }
+  
